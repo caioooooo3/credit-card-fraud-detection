@@ -129,6 +129,10 @@ The final model was retrained on the full training set and used to generate prob
 
 **Public leaderboard ROC-AUC: 0.94662**
 
+## Notebook
+
+The complete documented analysis is available at [`notebooks/credit_card_fraud_competitive_ml.ipynb`](./notebooks/credit_card_fraud_competitive_ml.ipynb).
+
 ## Repository structure
 
 ```text
