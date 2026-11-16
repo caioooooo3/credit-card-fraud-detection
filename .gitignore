@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and outputs
+data/
+train.csv
+test.csv
+sample_submission.csv
+submission.csv
+
+# CatBoost
+catboost_info/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
